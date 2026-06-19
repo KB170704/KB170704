@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm K B
 
-<!--
-**KB170704/KB170704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer
 
-Here are some ideas to get you started:
+- 🔭 Currently working on Shopify Store Management
+- 🌱 Learning Node.js, React, MongoDB
+- 👨‍💻 Building Franchise Management Platforms
+- 📫 Email: your-email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- Shopify
+- AWS
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
